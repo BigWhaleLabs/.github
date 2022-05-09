@@ -14,6 +14,7 @@
 * [zk-proof-generator](https://github.com/BigWhaleLabs/zk-proof-generator)
 
 ### Dosu Invites NFT
+* [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
 * [dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
 * [dosu-invites-backend](https://github.com/BigWhaleLabs/dosu-invites-backend)
 * [dosu-invites-allowlist-frontend](https://github.com/BigWhaleLabs/dosu-invites-allowlist-frontend)
