@@ -23,4 +23,3 @@
 * [bwl.gg](https://github.com/BigWhaleLabs/bigwhalelabs)
 * [@big-whale-labs/ui](https://github.com/BigWhaleLabs/ui)
 * [@big-whale-labs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)
-* 
