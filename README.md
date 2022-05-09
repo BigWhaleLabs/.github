@@ -1,7 +1,5 @@
 # Welcome to Big Whale Labs GitHub Page!
-
 ## Projects we're working on and their repos
-
 ### Dosu
 * [dosu-frontend](https://github.com/BigWhaleLabs/dosu-frontend)
 * [dosu-backend](https://github.com/BigWhaleLabs/dosu-backend)
@@ -22,7 +20,6 @@
 * [dosu-invites-allowlist-backend](https://github.com/BigWhaleLabs/dosu-invites-allowlist-backend)
 
 ### Misc
-
 * [bwl.gg](https://github.com/BigWhaleLabs/bigwhalelabs)
 * [@big-whale-labs/ui](https://github.com/BigWhaleLabs/ui)
 * [@big-whale-labs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)
