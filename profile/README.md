@@ -22,3 +22,4 @@
 * [@big-whale-labs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)
 * [simple-erc721](https://github.com/BigWhaleLabs/simple-erc721)
 * [minting-experience](https://github.com/BigWhaleLabs/minting-experience)
+* [constants](https://github.com/BigWhaleLabs/constants)
