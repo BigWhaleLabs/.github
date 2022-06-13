@@ -4,11 +4,9 @@
 ### SealCred
 * [seal-cred-verifier-contract](https://github.com/BigWhaleLabs/seal-cred-verifier-contract)
 * [seal-cred-ledger-contract](https://github.com/BigWhaleLabs/seal-cred-ledger-contract)
-* [seal-cred-ledger-contract-maintainer](https://github.com/BigWhaleLabs/seal-cred-ledger-contract-maintainer)
 * [seal-cred-admin-frontend](https://github.com/BigWhaleLabs/seal-cred-admin-frontend)
-* [seal-cred-admin-backend](https://github.com/BigWhaleLabs/seal-cred-admin-backend)
 * [seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
-* [zk-proof-generator](https://github.com/BigWhaleLabs/zk-proof-generator)
+* [attestor](https://github.com/BigWhaleLabs/attestor)
 
 ### Dosu Invites NFT
 * [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
@@ -20,7 +18,7 @@
 ### Misc
 * [bwl.gg](https://github.com/BigWhaleLabs/bigwhalelabs)
 * [@big-whale-labs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)
+* [@big-whale-labs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
 * [simple-erc721](https://github.com/BigWhaleLabs/simple-erc721)
 * [minting-experience](https://github.com/BigWhaleLabs/minting-experience)
 * [constants](https://github.com/BigWhaleLabs/constants)
-* [poseidon](https://github.com/BigWhaleLabs/poseidon)
