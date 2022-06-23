@@ -4,7 +4,7 @@
 ### SealCred
 * [seal-cred-verifier-contract](https://github.com/BigWhaleLabs/seal-cred-verifier-contract)
 * [seal-cred-ledger-contract](https://github.com/BigWhaleLabs/seal-cred-ledger-contract)
-* [seal-cred-admin-frontend](https://github.com/BigWhaleLabs/seal-cred-admin-frontend)
+* [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
 * [seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 * [attestor](https://github.com/BigWhaleLabs/attestor)
 
