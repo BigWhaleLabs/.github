@@ -8,6 +8,11 @@
 * [seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 * [attestor](https://github.com/BigWhaleLabs/attestor)
 
+### SealCredWork
+* [seal-cred-twitter-contract](https://github.com/BigWhaleLabs/seal-cred-twitter-contract)
+* [seal-cred-work-frontend](https://github.com/BigWhaleLabs/seal-cred-work-frontend)
+* [seal-cred-twitter-poster](https://github.com/BigWhaleLabs/seal-cred-twitter-poster)
+
 ### Dosu Invites NFT
 * [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
 * [dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
