@@ -28,3 +28,4 @@
 * [minting-experience](https://github.com/BigWhaleLabs/minting-experience)
 * [constants](https://github.com/BigWhaleLabs/constants)
 * [discord-roles-maintainer](https://github.com/BigWhaleLabs/discord-roles-maintainer)
+* [seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
