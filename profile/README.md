@@ -10,7 +10,7 @@
 
 ### SealCred | echo
 * [seal-cred-posts-contract](https://github.com/BigWhaleLabs/seal-cred-posts-contract)
-* [seal-cred-work-frontend](https://github.com/BigWhaleLabs/seal-cred-work-frontend)
+* [seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 * [seal-cred-twitter-poster](https://github.com/BigWhaleLabs/seal-cred-twitter-poster)
 
 ### Dosu Invites NFT
