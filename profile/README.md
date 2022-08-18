@@ -4,7 +4,6 @@
 ### SealCred
 * [seal-cred-verifier-contract](https://github.com/BigWhaleLabs/seal-cred-verifier-contract)
 * [seal-cred-ledger-contract](https://github.com/BigWhaleLabs/seal-cred-ledger-contract)
-* [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
 * [seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 * [attestor](https://github.com/BigWhaleLabs/attestor)
 
@@ -22,10 +21,15 @@
 
 ### Misc
 * [bwl.gg](https://github.com/BigWhaleLabs/bigwhalelabs)
-* [@big-whale-labs/backend-utils](https://github.com/BigWhaleLabs/backend-utils)
-* [@big-whale-labs/frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
+* [backend-utils](https://github.com/BigWhaleLabs/backend-utils)
+* [frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
+* [stores](https://github.com/BigWhaleLabs/stores)
 * [simple-erc721](https://github.com/BigWhaleLabs/simple-erc721)
 * [minting-experience](https://github.com/BigWhaleLabs/minting-experience)
 * [constants](https://github.com/BigWhaleLabs/constants)
 * [discord-roles-maintainer](https://github.com/BigWhaleLabs/discord-roles-maintainer)
 * [seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
+* [seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+* [update-scripts](https://github.com/BigWhaleLabs/update-scripts)
+* [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
+* [bwl-drop-contract](https://github.com/BigWhaleLabs/bwl-drop-contract)
