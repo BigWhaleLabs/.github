@@ -30,6 +30,5 @@
 * [discord-roles-maintainer](https://github.com/BigWhaleLabs/discord-roles-maintainer)
 * [seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
 * [seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-* [update-scripts](https://github.com/BigWhaleLabs/update-scripts)
 * [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
 * [bwl-drop-contract](https://github.com/BigWhaleLabs/bwl-drop-contract)
