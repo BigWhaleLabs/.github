@@ -33,4 +33,4 @@
 * [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
 * [bwl-drop-contract](https://github.com/BigWhaleLabs/bwl-drop-contract)
 * [versioned-contract](https://github.com/BigWhaleLabs/versioned-contract)
-
+* [metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
