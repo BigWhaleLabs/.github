@@ -7,7 +7,7 @@
 * [seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 * [attestor](https://github.com/BigWhaleLabs/attestor)
 
-### SealCred | echo
+### SealCred | Echo
 * [seal-cred-posts-contract](https://github.com/BigWhaleLabs/seal-cred-posts-contract)
 * [seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 * [seal-cred-twitter-poster](https://github.com/BigWhaleLabs/seal-cred-twitter-poster)
