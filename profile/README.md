@@ -12,6 +12,9 @@
 * [seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 * [seal-cred-twitter-poster](https://github.com/BigWhaleLabs/seal-cred-twitter-poster)
 
+### SealCaster
+* [seal-caster-frontend](https://github.com/BigWhaleLabs/seal-caster-frontend)
+
 ### Dosu Invites NFT
 * [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
 * [dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
