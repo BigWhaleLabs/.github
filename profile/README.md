@@ -34,3 +34,4 @@
 * [bwl-drop-contract](https://github.com/BigWhaleLabs/bwl-drop-contract)
 * [versioned-contract](https://github.com/BigWhaleLabs/versioned-contract)
 * [metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
+* [ui-kit](https://github.com/BigWhaleLabs/ui-kit)
