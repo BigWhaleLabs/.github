@@ -10,7 +10,7 @@
 ### SealCred | Echo
 * [seal-cred-posts-contract](https://github.com/BigWhaleLabs/seal-cred-posts-contract)
 * [seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
-* [seal-cred-twitter-poster](https://github.com/BigWhaleLabs/seal-cred-twitter-poster)
+* [seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
 
 ### Dosu Invites NFT
 * [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
@@ -34,4 +34,7 @@
 * [bwl-drop-contract](https://github.com/BigWhaleLabs/bwl-drop-contract)
 * [versioned-contract](https://github.com/BigWhaleLabs/versioned-contract)
 * [metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
+* [metadata](https://github.com/BigWhaleLabs/metadata)
+* [bwl-seals](https://github.com/BigWhaleLabs/bwl-seals)
 * [ui-kit](https://github.com/BigWhaleLabs/ui-kit)
+* [bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
