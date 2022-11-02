@@ -5,12 +5,26 @@
 * [seal-cred-verifier-contract](https://github.com/BigWhaleLabs/seal-cred-verifier-contract)
 * [seal-cred-ledger-contract](https://github.com/BigWhaleLabs/seal-cred-ledger-contract)
 * [seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
+* [seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
 * [attestor](https://github.com/BigWhaleLabs/attestor)
+* [metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
 
 ### SealCred | Echo
 * [seal-cred-posts-contract](https://github.com/BigWhaleLabs/seal-cred-posts-contract)
 * [seal-cred-echo-frontend](https://github.com/BigWhaleLabs/seal-cred-echo-frontend)
 * [seal-cred-echo-poster](https://github.com/BigWhaleLabs/seal-cred-echo-poster)
+
+### Sealcaster
+* [sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+
+### SealCred | Peek
+* [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
+
+### SealHub
+* TBA
+
+### 2mrrw/afaf
+* [2mrrw.xyz](https://github.com/BigWhaleLabs/2mrrw)
 
 ### Dosu Invites NFT
 * [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
@@ -29,12 +43,10 @@
 * [constants](https://github.com/BigWhaleLabs/constants)
 * [discord-roles-maintainer](https://github.com/BigWhaleLabs/discord-roles-maintainer)
 * [seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
-* [seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
-* [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
 * [bwl-drop-contract](https://github.com/BigWhaleLabs/bwl-drop-contract)
 * [versioned-contract](https://github.com/BigWhaleLabs/versioned-contract)
-* [metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
 * [metadata](https://github.com/BigWhaleLabs/metadata)
 * [bwl-seals](https://github.com/BigWhaleLabs/bwl-seals)
 * [ui-kit](https://github.com/BigWhaleLabs/ui-kit)
 * [bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
+* [botcaster](https://github.com/BigWhaleLabs/botcaster)
