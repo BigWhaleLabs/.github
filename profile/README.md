@@ -47,6 +47,5 @@
 * [versioned-contract](https://github.com/BigWhaleLabs/versioned-contract)
 * [metadata](https://github.com/BigWhaleLabs/metadata)
 * [bwl-seals](https://github.com/BigWhaleLabs/bwl-seals)
-* [ui-kit](https://github.com/BigWhaleLabs/ui-kit)
 * [bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
 * [botcaster](https://github.com/BigWhaleLabs/botcaster)
