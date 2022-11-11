@@ -21,7 +21,11 @@
 * [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
 
 ### SealHub
-* TBA
+* [seal-hub-frontend](https://github.com/BigWhaleLabs/seal-hub-frontend)
+* [seal-hub-ecdsa-verifier-contract](https://github.com/BigWhaleLabs/seal-hub-ecdsa-verifier-contract)
+* [seal-hub-contract](https://github.com/BigWhaleLabs/seal-hub-contract)
+* [seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
+* [seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
 
 ### 2mrrw/afaf
 * [2mrrw.xyz](https://github.com/BigWhaleLabs/2mrrw)
