@@ -27,7 +27,7 @@
 * [seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
 * [seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
 
-### 2mrrw/afaf
+### 2mrrw/afaf/ketl
 * [2mrrw.xyz](https://github.com/BigWhaleLabs/2mrrw)
 
 ### Dosu Invites NFT
