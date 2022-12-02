@@ -16,6 +16,7 @@
 
 ### Sealcaster
 * [sealcaster-frontend](https://github.com/BigWhaleLabs/sealcaster-frontend)
+* [sealcaster-cli](https://github.com/BigWhaleLabs/sealcaster-cli)
 
 ### SealCred | Peek
 * [seal-cred-peek-frontend](https://github.com/BigWhaleLabs/seal-cred-peek-frontend)
@@ -26,9 +27,14 @@
 * [seal-hub-contract](https://github.com/BigWhaleLabs/seal-hub-contract)
 * [seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
 * [seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
+* [seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)
+* [seal-hub-solidity-example](https://github.com/BigWhaleLabs/seal-hub-solidity-example)
 
 ### 2mrrw/afaf/ketl
 * [2mrrw.xyz](https://github.com/BigWhaleLabs/2mrrw)
+* [obss-frontend](https://github.com/BigWhaleLabs/obss-frontend)
+* [obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)
+* [obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)
 
 ### Dosu Invites NFT
 * [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
@@ -54,3 +60,6 @@
 * [ui-kit](https://github.com/BigWhaleLabs/ui-kit)
 * [bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
 * [botcaster](https://github.com/BigWhaleLabs/botcaster)
+* [prettier-config](https://github.com/BigWhaleLabs/prettier-config)
+* [bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
+* [poseidon](https://github.com/BigWhaleLabs/poseidon)
