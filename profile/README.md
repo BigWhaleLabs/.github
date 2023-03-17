@@ -6,8 +6,11 @@
 * [seal-cred-ledger-contract](https://github.com/BigWhaleLabs/seal-cred-ledger-contract)
 * [seal-cred-frontend](https://github.com/BigWhaleLabs/seal-cred-frontend)
 * [seal-cred-email](https://github.com/BigWhaleLabs/seal-cred-email)
+* [seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
 * [attestor](https://github.com/BigWhaleLabs/attestor)
+* [bwl-metadata-bridge-contract](https://github.com/BigWhaleLabs/bwl-metadata-bridge-contract)
 * [metadata-generator](https://github.com/BigWhaleLabs/metadata-generator)
+* [metadata-oracle](https://github.com/BigWhaleLabs/metadata-oracle)
 
 ### SealCred | Echo
 * [seal-cred-posts-contract](https://github.com/BigWhaleLabs/seal-cred-posts-contract)
@@ -30,21 +33,23 @@
 * [seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)
 * [seal-hub-solidity-example](https://github.com/BigWhaleLabs/seal-hub-solidity-example)
 
-### 2mrrw/afaf/ketl
-* [2mrrw.xyz](https://github.com/BigWhaleLabs/2mrrw)
-* [obss-frontend](https://github.com/BigWhaleLabs/obss-frontend)
+### ketl
+* [ketl.xyz](https://github.com/BigWhaleLabs/ketl-landing)
+* [ketl-allow-map-contract](https://github.com/BigWhaleLabs/ketl-allow-map-contract)
+* [ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)
+* [ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)
+* [ketl-app](https://github.com/BigWhaleLabs/ketl-app)
 * [obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)
 * [obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)
 
-### Dosu Invites NFT
-* [dosu-invites-contract](https://github.com/BigWhaleLabs/dosu-invites-contract)
-* [dosu-invites-frontend](https://github.com/BigWhaleLabs/dosu-invites-frontend)
-* [dosu-invites-backend](https://github.com/BigWhaleLabs/dosu-invites-backend)
-* [dosu-invites-allowlist-frontend](https://github.com/BigWhaleLabs/dosu-invites-allowlist-frontend)
-* [dosu-invites-allowlist-backend](https://github.com/BigWhaleLabs/dosu-invites-allowlist-backend)
+### Farcantasy
+* [farcantasy-arena-contract](https://github.com/BigWhaleLabs/farcantasy-arena-contract)
+* [farcantasy-metadata](https://github.com/BigWhaleLabs/farcantasy-metadata)
+* [farcantasy-frontend](https://github.com/BigWhaleLabs/farcantasy-frontend)
+* [farcantasy-contract](https://github.com/BigWhaleLabs/farcantasy-contract)
 
 ### Misc
-* [bwl.gg](https://github.com/BigWhaleLabs/bigwhalelabs)
+* [bigwhalelabs.com](https://github.com/BigWhaleLabs/bigwhalelabs)
 * [backend-utils](https://github.com/BigWhaleLabs/backend-utils)
 * [frontend-utils](https://github.com/BigWhaleLabs/frontend-utils)
 * [stores](https://github.com/BigWhaleLabs/stores)
@@ -52,7 +57,6 @@
 * [minting-experience](https://github.com/BigWhaleLabs/minting-experience)
 * [constants](https://github.com/BigWhaleLabs/constants)
 * [discord-roles-maintainer](https://github.com/BigWhaleLabs/discord-roles-maintainer)
-* [seal-cred-paymaster-contract](https://github.com/BigWhaleLabs/seal-cred-paymaster-contract)
 * [bwl-drop-contract](https://github.com/BigWhaleLabs/bwl-drop-contract)
 * [versioned-contract](https://github.com/BigWhaleLabs/versioned-contract)
 * [metadata](https://github.com/BigWhaleLabs/metadata)
