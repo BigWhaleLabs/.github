@@ -31,7 +31,6 @@
 * [seal-hub-prover](https://github.com/BigWhaleLabs/seal-hub-prover)
 * [seal-hub-verifier-template](https://github.com/BigWhaleLabs/seal-hub-verifier-template)
 * [seal-hub-kit](https://github.com/BigWhaleLabs/seal-hub-kit)
-* [seal-hub-solidity-example](https://github.com/BigWhaleLabs/seal-hub-solidity-example)
 
 ### ketl
 * [ketl.xyz](https://github.com/BigWhaleLabs/ketl-landing)
