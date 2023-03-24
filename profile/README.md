@@ -43,6 +43,7 @@
 
 ### Farcantasy
 * [farcantasy-arena-contract](https://github.com/BigWhaleLabs/farcantasy-arena-contract)
+* [farcantasy-arena-frontend](https://github.com/BigWhaleLabs/farcantasy-arena-frontend)
 * [farcantasy-metadata](https://github.com/BigWhaleLabs/farcantasy-metadata)
 * [farcantasy-frontend](https://github.com/BigWhaleLabs/farcantasy-frontend)
 * [farcantasy-contract](https://github.com/BigWhaleLabs/farcantasy-contract)
