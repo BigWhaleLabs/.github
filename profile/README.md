@@ -66,5 +66,5 @@
 * [bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
 * [botcaster](https://github.com/BigWhaleLabs/botcaster)
 * [prettier-config](https://github.com/BigWhaleLabs/prettier-config)
-* [bwl-eslint-config](https://github.com/BigWhaleLabs/bwl-eslint-config)
+* [bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)
 * [poseidon](https://github.com/BigWhaleLabs/poseidon)
