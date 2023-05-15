@@ -42,6 +42,7 @@
 * [obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)
 * [ketl-attestation-verifier](https://github.com/BigWhaleLabs/ketl-attestation-verifier)
 * [ketl-attestation-token](https://github.com/BigWhaleLabs/ketl-attestation-token)
+* [ketl-email](https://github.com/BigWhaleLabs/ketl-email)
 
 ### Farcantasy
 * [farcantasy-arena-contract](https://github.com/BigWhaleLabs/farcantasy-arena-contract)
