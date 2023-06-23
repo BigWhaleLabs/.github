@@ -38,6 +38,7 @@
 * [ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)
 * [ketl-app](https://github.com/BigWhaleLabs/ketl-app)
 * [ketl-ai-rewrite](https://github.com/BigWhaleLabs/ketl-ai-rewrite)
+* [ketl-pfp-generator](https://github.com/BigWhaleLabs/ketl-pfp-generator)
 * [obss-ipfs-uploader](https://github.com/BigWhaleLabs/obss-ipfs-uploader)
 * [obss-storage-contract](https://github.com/BigWhaleLabs/obss-storage-contract)
 * [ketl-attestation-verifier](https://github.com/BigWhaleLabs/ketl-attestation-verifier)
