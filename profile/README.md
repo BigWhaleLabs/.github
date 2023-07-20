@@ -33,7 +33,6 @@
 
 ### ketl
 * [ketl.xyz](https://github.com/BigWhaleLabs/ketl-landing)
-* [ketl-allow-map-contract](https://github.com/BigWhaleLabs/ketl-allow-map-contract)
 * [ketl-zk-frontend](https://github.com/BigWhaleLabs/ketl-zk-frontend)
 * [ketl-notifications-backend](https://github.com/BigWhaleLabs/ketl-notifications-backend)
 * [ketl-app](https://github.com/BigWhaleLabs/ketl-app)
