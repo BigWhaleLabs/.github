@@ -71,3 +71,4 @@
 * [prettier-config](https://github.com/BigWhaleLabs/prettier-config)
 * [bwl-eslint-backend](https://github.com/BigWhaleLabs/bwl-eslint-backend)
 * [poseidon](https://github.com/BigWhaleLabs/poseidon)
+* [healthchecks-backend](https://github.com/BigWhaleLabs/healthchecks-backend)
